@@ -73,7 +73,7 @@
 * **起止年月：** 2024.01 - 2024.12
 ---
 
-## 📚 参与科研项目 (Selected Participation)
+## 📚 参与科研项目
 * **国家重点研发计划课题：** 面向智能工厂的以太网技术验证及示范 (2020.12 - 2023.10)
   * 主要工作：设计双线以太网远程 I/O 设备技术路线、标准化测试及成果撰写。
 * **国家自然科学基金优秀青年项目：** 非线性网络化随机系统的多指标控制与滤波 (2020.01 - 2021.12)
@@ -82,8 +82,13 @@
   * 主要工作：搭建移动机器人验证实验平台，提出微电网分布式状态估计方法。
 
 ---
+## 📜 代表性论著
+1.Bogang Qu, Zidong Wang and Bo Shen, Dynamic State Estimation for Power Systems under Unconventional Measurements, CRC Press, London, 224 Pages, 2026.
+2.彭道刚，王丹豪，赵慧荣，渠博岗，王立成，园区综合能源系统源荷预测与调控优化，中国电力出版社，2026.
 
-## 📜 代表性论著 (Selected Publications)
+---
+
+## 📜 代表性论著 
 1. **Bogang Qu**, et al., **Secure particle filtering with Paillier encryption-decryption scheme**, *IEEE Transactions on Smart Grid*, 2024. (IF: 8.6)
 2. **Bogang Qu**, et al., **Anomaly-resistant decentralized state estimation under minimum error entropy**, *IEEE/CAA Journal of Automatica Sinica*, 2024. (IF: 15.3)
 3. **Bogang Qu**, et al., **Decentralized dynamic state estimation for multi-machine power systems**, *Automatica*, 2023. (IF: 4.8)
