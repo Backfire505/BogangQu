@@ -83,8 +83,7 @@
 
 ---
 ## 📜 学术专著
-1.**Bogang Qu**, Zidong Wang and Bo Shen, Dynamic State Estimation for Power Systems under Unconventional Measurements, CRC Press, London, 224 Pages, 2026.
-
+1.**Bogang Qu**, Zidong Wang and Bo Shen, Dynamic State Estimation for Power Systems under Unconventional Measurements, CRC Press, London, 224 Pages, 2026.  
 2.彭道刚，王丹豪，赵慧荣，**渠博岗**，王立成，园区综合能源系统源荷预测与调控优化，中国电力出版社，2026.
 
 ---
