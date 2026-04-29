@@ -82,9 +82,9 @@
   * 主要工作：搭建移动机器人验证实验平台，提出微电网分布式状态估计方法。
 
 ---
-## 📜 代表性论著
-1.Bogang Qu, Zidong Wang and Bo Shen, Dynamic State Estimation for Power Systems under Unconventional Measurements, CRC Press, London, 224 Pages, 2026.
-2.彭道刚，王丹豪，赵慧荣，渠博岗，王立成，园区综合能源系统源荷预测与调控优化，中国电力出版社，2026.
+## 📜 学术专著
+1.**Bogang Qu**, Zidong Wang and Bo Shen, Dynamic State Estimation for Power Systems under Unconventional Measurements, CRC Press, London, 224 Pages, 2026.
+2.彭道刚，王丹豪，赵慧荣，**渠博岗**，王立成，园区综合能源系统源荷预测与调控优化，中国电力出版社，2026.
 
 ---
 
