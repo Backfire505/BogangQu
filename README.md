@@ -87,15 +87,16 @@
 ---
 
 ## 📜 代表性论著 
- 1. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Daogang. Peng, Adaptive decentralized state estimation for multi-machine power grids under measurement noises with unknown statistics, IEEE Transactions on Industrial Informatics, Vol. 21, No. 2, Feb. 2025, pp. 1655-1664. (计算机科学顶刊，中科院一区Top) 
- 2. **Bogang Qu**, Zidong. Wang, Bo. Shen, Daogang. Peng and Dong. Yue, Dynamic state estimation for multi-machine power grids under randomly occurring cyber-attacks: a decentralized framework, IEEE Transactions on Sustainable Computing, Vol. 10, No. 2, Feb. 2025, pp. 1655-1664. 
- 3. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Xin. Zhang, Secure particle filtering with Paillier encryption-decryption scheme for cyber-physical multi-machine power grids, IEEE Transactions on Smart Grid,Vol. 15, No. 1, Jan. 2024, pp. 863-873. (智能电网领域顶级期刊，中科院一区Top) 
- 4. **Bogang Qu** Zidong. Wang, Bo. Shen, Hongli. Dong and Hongjian. Liu, Anomaly-resistant decentralized state estimation under minimum error entropy with fiducial points for wide-area power systems, IEEE/CAA Journal of Automatica Sinica, Vol. 11, No. 1, Jan. 2024, pp. 74-87. (控制科学顶刊，中科院一区Top) 
- 5. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Decentralized dynamic state estimation for multi-machine power systems with non-Gaussian noises: outlier detection and localization, Automatica, Vol. 153, Jul. 2023, Art. No. 111010, 10 pages. (控制科学顶刊，中科院二区Top) 
- 6. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Outlier-resistant recursive state estimation for renewable-electricity-generation-based microgrids, IEEE Transactions on Industrial Informatics, Vol. 19, No. 5, May 2023, pp. 7133-7144. (计算机科学顶刊，中科院一区Top) 
- 7. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Hhongjian. Liu, Event-based joint state and unknown input estimation for energy networks: handling multi-machine power grids, IEEE Transactions on Network Science and Engineering, Vol. 10, No. 1, Jan.-Feb. 2023, pp. 253-264. 
- 8. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Distributed state estimation for renewable energy microgrids with sensor saturations, Automatica, Vol. 131, Sept. 2021, Art. No. 109730, 10 pages. (控制科学顶刊，中科院二区Top) 
- 9. **Bogang Qu**, Zidong. Wang and Bo. Shen, Fusion estimation for a class of multi-rate power systems with randomly occurring SCADA measurement delays, Automatica, Vol. 125, Mar. 2021, Art. No. 109408, 10 pages. (控制科学顶刊，中科院二区Top) 
+ 1. Enming Wu, **Bogang Qu**, Daogang Peng, et al. Toward label-efficient and comprehensive solar irradiance estimation with SkyMAE self-supervised learning on all-sky images, Solar Energy, Vol. 320, Art. No. 115239, 2026.(太阳能领域顶刊，二区Top) 
+ 2. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Daogang. Peng, Adaptive decentralized state estimation for multi-machine power grids under measurement noises with unknown statistics, IEEE Transactions on Industrial Informatics, Vol. 21, No. 2, Feb. 2025, pp. 1655-1664. (计算机科学顶刊，中科院一区Top) 
+ 3. **Bogang Qu**, Zidong. Wang, Bo. Shen, Daogang. Peng and Dong. Yue, Dynamic state estimation for multi-machine power grids under randomly occurring cyber-attacks: a decentralized framework, IEEE Transactions on Sustainable Computing, Vol. 10, No. 2, Feb. 2025, pp. 1655-1664. 
+ 4. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Xin. Zhang, Secure particle filtering with Paillier encryption-decryption scheme for cyber-physical multi-machine power grids, IEEE Transactions on Smart Grid,Vol. 15, No. 1, Jan. 2024, pp. 863-873. (智能电网领域顶级期刊，中科院一区Top) 
+ 5. **Bogang Qu** Zidong. Wang, Bo. Shen, Hongli. Dong and Hongjian. Liu, Anomaly-resistant decentralized state estimation under minimum error entropy with fiducial points for wide-area power systems, IEEE/CAA Journal of Automatica Sinica, Vol. 11, No. 1, Jan. 2024, pp. 74-87. (控制科学顶刊，中科院一区Top) 
+ 6. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Decentralized dynamic state estimation for multi-machine power systems with non-Gaussian noises: outlier detection and localization, Automatica, Vol. 153, Jul. 2023, Art. No. 111010, 10 pages. (控制科学顶刊，中科院二区Top) 
+ 7. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Outlier-resistant recursive state estimation for renewable-electricity-generation-based microgrids, IEEE Transactions on Industrial Informatics, Vol. 19, No. 5, May 2023, pp. 7133-7144. (计算机科学顶刊，中科院一区Top) 
+ 8. **Bogang Qu**, Zidong. Wang, Bo. Shen, Hongli. Dong and Hhongjian. Liu, Event-based joint state and unknown input estimation for energy networks: handling multi-machine power grids, IEEE Transactions on Network Science and Engineering, Vol. 10, No. 1, Jan.-Feb. 2023, pp. 253-264. 
+ 9. **Bogang Qu**, Zidong. Wang, Bo. Shen and Hongli. Dong, Distributed state estimation for renewable energy microgrids with sensor saturations, Automatica, Vol. 131, Sept. 2021, Art. No. 109730, 10 pages. (控制科学顶刊，中科院二区Top) 
+ 10. **Bogang Qu**, Zidong. Wang and Bo. Shen, Fusion estimation for a class of multi-rate power systems with randomly occurring SCADA measurement delays, Automatica, Vol. 125, Mar. 2021, Art. No. 109408, 10 pages. (控制科学顶刊，中科院二区Top) 
  
 
 ---
@@ -104,7 +105,14 @@
 1.上海市自动化学会2022年度最佳博士论文奖，2023年5月。  
 2.上海市人工智能学会2025年度青年优秀论文奖，2025年12月。  
 3.上海市人工智能学会2024年度青年优秀论文奖，2024年12月。  
-4.国网上海市电力公司2025年度科技进步奖，三等奖，2026年3月。  
-5.上海电力大学第五届教师教学创新大赛新工科组，三等奖，2025年4月。  
-6.上海电力大学第十二届青年教师教学竞赛（自然科学应用科学），三等奖，2025年6月。
+4.上海电力大学第五届教师教学创新大赛新工科组，三等奖，2025年4月。  
+5.上海电力大学第十二届青年教师教学竞赛（自然科学应用科学），三等奖，2025年6月。
+6.国网上海市电力公司2025年度科技进步奖，三等奖，2026年3月。  
+---
 
+## 🏆 学生科创指导
+1. 第十八届中国研究生电子设计竞赛，《基于单对双绞线和边缘计算的数据采集系统》，上海赛区二等奖，2023年7月。
+2. 第九届中国国际“互联网+”大学生创新创业大赛，《能源工业互联网可视化低代码快速开发平台》，上海赛区铜奖，2023年9月。
+3. 第十九届中国研究生电子设计竞赛，《基于Ethernet-APL和边缘计算的数据采集系统》，上海赛区二等奖，2024年7月。
+4. 中国国际大学生创新大赛（2025），《PowerSeek—能源AI领航者》，上海赛区铜奖，2025年8月。
+5. 第二十一届中国研究生电子设计竞赛，《基于天空图像与边缘智能的太阳辐照度实时感知系统设计与实现》，上海赛区二等奖，2026年7月。
